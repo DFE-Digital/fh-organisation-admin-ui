@@ -1,2 +1,2 @@
-# fh-service-directory-libs
-A repository to hold library/nuget package projects related to the Family Hubs Service Directory
+# fh-organisation-admin-ui
+UI for adding, editing and deleting Local Authority, Voluntary, Charitable and Faith Organisations, their Users and their Roles.
